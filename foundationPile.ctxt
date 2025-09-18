@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=foundationPile
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ foundationPile\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=x\ y
+comment2.target=foundationPile(int,\ int)
+comment3.params=
+comment3.target=void\ updateVisuals()
+comment4.params=Card
+comment4.target=boolean\ canAcceptCard(card)
+comment5.params=
+comment5.target=void\ checkWin()
+numComments=6

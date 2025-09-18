@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=deck
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ deck\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=deck()
+comment3.params=
+comment3.target=void\ shuffle()
+comment4.params=
+comment4.target=card\ deal()
+comment5.params=
+comment5.target=java.util.List\ dealThree()
+comment6.params=
+comment6.target=boolean\ isEmpty()
+numComments=7
